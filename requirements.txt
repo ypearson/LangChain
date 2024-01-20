@@ -1,4 +1,5 @@
-openai
 python-dotenv
-langchain
 notebook
+openai
+langchain
+langchain-openai
