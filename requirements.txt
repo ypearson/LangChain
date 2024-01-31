@@ -1,6 +1,7 @@
-python-dotenv
-pandas
-notebook
-openai
-langchain
-langchain-openai
+# python-dotenv
+# pandas
+# notebook
+# openai
+langchain==0.0.347
+# langchain-openai
+# docarray
