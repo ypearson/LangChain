@@ -1,7 +1,9 @@
 
-## API keys
+## API keys & usage
 
 https://platform.openai.com/api-keys
+
+https://platform.openai.com/usage
 
 
 
